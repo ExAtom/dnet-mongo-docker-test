@@ -3,6 +3,6 @@ services:
     build: .
 
   db:
-    image: mongo:latest
+    image: arm64v8/mongo:6.0.3-focal
     volumes:
       - ./data:/data/db
