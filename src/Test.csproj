@@ -7,7 +7,6 @@
   <ItemGroup>
     <PackageReference Include="Discord.Net" Version="*"/>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="*"/>
-    <PackageReference Include="SkiaSharp.NativeAssets.Linux.NoDependencies" Version="*"/>
     <PackageReference Include="MongoDB.Driver" Version="*"/>
   </ItemGroup>
 </Project>

@@ -3,6 +3,6 @@ services:
     build: .
 
   db:
-    image: mongo:4.4.18
+    image: mongo:4.4
     volumes:
       - ./data:/data/db
